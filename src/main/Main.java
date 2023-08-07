@@ -1,3 +1,9 @@
+package main;
+
+import barberia.Barberia;
+import barberos.Barbero;
+import barberia.IAtencionCliente;
+
 public class Main {
     public static void main(String[] args) {
         Barbero julio = new Barbero("Julio");

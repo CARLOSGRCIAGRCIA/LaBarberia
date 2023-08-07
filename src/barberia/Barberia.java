@@ -1,7 +1,11 @@
+package barberia;
+
+import barberos.Barbero;
+
 import java.util.LinkedList;
 import java.util.Queue;
 
-class Barberia implements IAtencionCliente {
+public class Barberia implements IAtencionCliente {
     private Barbero[] barberos;
     private Queue<String> clientesEspera;
     private Queue<String> clientesAtencion;

@@ -1,4 +1,6 @@
-class Barbero {
+package barberos;
+
+public class Barbero {
     private String nombre;
 
     public Barbero(String nombre) {
