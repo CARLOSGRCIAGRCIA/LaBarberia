@@ -70,7 +70,7 @@ El programa mostrará mensajes de "en espera", "en atención" y "servido" para l
 
 
 # diagrama de clase
-![img.png](img.png)
+![img.png](src/img/img.png)
 codigo mermaid:   
 
          classDiagram
@@ -110,7 +110,7 @@ codigo mermaid:
 
 
 # EJEMPLO DE EJECUCION:
-![img_1.png](img_1.png)
+![img_1.png](src/img/img_1.png)
 
 
 ## CREADOR: [CARLOS G]
